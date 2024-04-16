@@ -1,3 +1,4 @@
+<img src="https://res.cloudinary.com/dl26pbek4/image/upload/v1678269129/cn-gifs/dialect-app_ftq0sd.gif"/>
 1. **Defining Contexts:**
    - We start by creating two separate context objects using React's `createContext()` function. These are `themeContext` and `languageContext`.
    - Contexts allow us to share state between components without having to explicitly pass props through every level of the component tree.
